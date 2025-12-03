@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h2 align="center">Hi there, I'm Nor Ain Fahira 👋</h2>
-<p align="center">Freshie in Computer Science (Data Engineering) | Beginner Programmer | Learning C++</p>
+<p align="center">Full Time student at UTM JB.</p>
 
 ---
 
