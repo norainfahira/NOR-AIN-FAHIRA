@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h2 align="center">Hi there, I'm Nor Ain Fahira 👋</h2>
-<p align="center">Full Time student at UTM JB.</p>
+<p align="center">Bachelor of Computer Science (Data Engineering) with Honours student.</p>
 
 ---
 
