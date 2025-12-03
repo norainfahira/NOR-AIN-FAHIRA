@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h2 align="center">Hi there, I'm Nor Ain Fahira 👋</h2>
-<p align="center">Freshie in Computer Science(Data Engineering) | Beginner Programmer | Learning C++</p>
+<p align="center">Freshie in Computer Science (Data Engineering) | Beginner Programmer | Learning C++</p>
 
 ---
 
@@ -51,7 +51,7 @@
 ---
 
 ## 💬 Quote / Fun Fact
-> *“Everyone starts somewhere — small steps every day lead to big progress.”*
+> *“Learn, fail, repeat, improve—success is in persistence.”*
 
 Fun fact: Saya suka explore benda baru dan selalu excited bila berjaya selesaikan satu error kecil dalam code 😄
 
