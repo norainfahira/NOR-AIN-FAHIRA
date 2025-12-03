@@ -1,20 +1,20 @@
 <!-- Banner -->
-<h2 align="center">Hi there, I'm Norain Fahira 👋</h2>
-<p align="center">Freshie in Computer Science | Beginner Programmer | Learning C++</p>
+<h2 align="center">Hi there, I'm Nor Ain Fahira 👋</h2>
+<p align="center">Freshie in Computer Science(Data Engineering) | Beginner Programmer | Learning C++</p>
 
 ---
 
 ## 🌿 About Me
-- 👩‍💻 Freshies yang baru bermula dalam dunia programming  
-- 🚀 Minat dalam membina small projects & improve coding skills  
-- 💡 Suka belajar benda baru, terutama dalam C++ dan tools development  
-- 🎯 Fokus utama: faham asas programming dan bina portfolio secara berperingkat  
+- 👩‍💻 I’m a first-year Computer Science (Data Engineering) student.
+- 🌱 Still new in programming and trying my best to improve.  
+- 🚀 I enjoy learning new things especially C++ and basic software tools.  
+- 💡 My goal is to build a strong foundation and grow step by step.  
 
 ---
 
 ## 🎓 Education
-- **Bachelor of Computer Science (Year 1)**  
-  Universiti (Fill your university name here)  
+- **Bachelor of Computer Science in Data Engineering (Year 1)**  
+  Universiti Teknologi Malaysia in Johor Bahru, Johor.  
 - Currently exploring: programming fundamentals, logic building, and software tools
 
 ---
@@ -45,9 +45,8 @@
 ---
 
 ## 🌐 Contact / Social Media
-- 📩 Email: (your email here)  
-- 💼 LinkedIn: (add link if you have one)  
-- 🌍 Portfolio (optional): (link here)
+- 📩 Email: norainfahira@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/norainfahira
 
 ---
 
